@@ -16,3 +16,12 @@ Hence the first thing we will do is "ITALIC"
 The second one here will be "BOLD"
 
 **This text will be bold**
+
+>Moving ahead to the list section 
+
+**Unordered List**
+*item 1
+*item 2
+*item 3
+  *Sub-Item 1
+  *Sub-item 2
