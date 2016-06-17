@@ -1,0 +1,13 @@
+Hello welcome 
+
+This is a new repo
+
+# What are you trying to do here ?
+
+#Ans : We are adding a file to the branch called 'licence'.txt
+
+#Why are you do so?
+
+#We are doing this because, we can add a file to the branch and then commit it to the master
+
+Thank you
