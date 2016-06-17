@@ -2,3 +2,9 @@
 Just another repo
 
 Ok so we are trying to learn to commit to the branch and hence we will push the same to the master.
+
+
+Below start the work done on the master
+
+>I was trying to learn the markdown 
+>So that I can basically understand the techniques for better documentation
