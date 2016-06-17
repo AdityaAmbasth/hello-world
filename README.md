@@ -20,8 +20,8 @@ The second one here will be "BOLD"
 >Moving ahead to the list section 
 
 **Unordered List**
-*item 1
-*item 2
-*item 3
-  *Sub-Item 1
-  *Sub-item 2
+* item 1
+* item 2
+* item 3
+  * Sub-Item 1
+  * Sub-item 2
